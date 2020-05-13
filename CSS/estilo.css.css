@@ -1,0 +1,35 @@
+body {
+    background-image :url('https://image.freepik.com/fotos-gratis/fundo-simples-de-concreto-preto_23-2148262062.jpg');
+    background-size:auto  100vh;
+    font-family: Impact;
+    height:100vh;
+  }
+  
+  .menu{
+    background-color:white  }
+  .menu ul {
+   display:flex;
+   justify-content:space-around;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  a{
+    color: teal;
+    text-decoration: none;
+  }
+  a:hover{
+    text-decoration: underline;
+  }
+  .site-subtitle,
+  .site-title{
+    text-align:center;
+    color:whitesmoke;
+  }
+  .site-subtitle{
+    font-style:italic;
+  }
+    
+  
